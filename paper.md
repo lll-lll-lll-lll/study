@@ -1,4 +1,6 @@
+[URL](https://paperswithcode.com/method/gan)
 #### 選んだ理由
+復習を兼ねての基礎学習
 #### どんなもの
 #### 研究課題
 #### 技術や手法のキモはどこ？ 
