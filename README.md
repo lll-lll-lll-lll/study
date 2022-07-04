@@ -1,5 +1,11 @@
-# study
+paper : [URL](https://arxiv.org/abs/1909.07940)
+#### 選んだ理由
+自然言語内の数値をモデルは数値として処理してるのかという疑問に答えてくれそうだと思ったから<br>
+Abstractには埋め込みで一般的なGloVeなどでは自然に数値をキャプチャして処理してると書いてあったので興味を持ちまとめ&学習してみようと思った
+#### どんなもの
+DROP(数値推論)データセットで良い結果を出したモデルは自然とテキスト内の数値をキャプチャし数値として処理できていることがわかった
+#### 研究課題
+現在のほとんどNLPモデルがテキスト内の数値を他のトークンと同じように分散ベクトルで表現しているんだが、これで十分に数値を捉え切れているのかという疑問<br>
 
-## 一覧
-- [How to Fine-Tune BERT for Text Classification?(翻訳)](https://github.com/lll-lll-lll-lll/study/blob/bert_text_class/paper.md)
-- [A comparison of LSTM and BERT for small corpus(翻訳)](https://github.com/lll-lll-lll-lll/study/blob/lstm-bert/comperison_of_lstm_bert.md)
+#### 技術や手法のキモはどこ？ 
+#### どうやって有効だと検証した？
